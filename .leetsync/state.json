@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "updatedAt": 1792247913156,
+  "devices": {
+    "7061cee7-754e-421d-af11-d08d53256b8f": {
+      "lastSeen": 1792247912346
+    }
+  },
+  "problems": {
+    "3551": {
+      "attempts": 1,
+      "bestMemory": "115.3 MB (Beats 68%)",
+      "bestRuntime": "1085 ms (Beats 19%)",
+      "date": "2026-10-17",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-17",
+      "folderName": "3551-Minimum-Swaps-to-Sort-by-Digit-Sum",
+      "language": "Java",
+      "number": 3551,
+      "slug": "minimum-swaps-to-sort-by-digit-sum",
+      "solutionCount": 2,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "title": "Minimum Swaps to Sort by Digit Sum",
+      "at": 1792247912346
+    }
+  },
+  "achievements": {
+    "first_blood": 1792247811981
+  },
+  "sheets": {},
+  "days": [
+    "2026-10-17"
+  ],
+  "bests": {
+    "longestStreak": 1,
+    "pushes": 2
+  },
+  "identity": {
+    "installId": "a3399c48-c07a-4808-b0f5-2de7cf30506e",
+    "at": 1792247312470,
+    "name": "Abhi",
+    "nameAt": 1792247599036
+  }
+}
