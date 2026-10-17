@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792248214078,
+  "updatedAt": 1792248216083,
   "devices": {
     "7061cee7-754e-421d-af11-d08d53256b8f": {
-      "lastSeen": 1792248212348
+      "lastSeen": 1792248213335
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sorting"
       ],
       "title": "Minimum Swaps to Sort by Digit Sum",
-      "at": 1792248212348
+      "at": 1792248213335
     }
   },
   "achievements": {
