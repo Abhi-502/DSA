@@ -1,12 +1,32 @@
 {
   "v": 1,
-  "updatedAt": 1792259430427,
+  "updatedAt": 1792259613165,
   "devices": {
     "7061cee7-754e-421d-af11-d08d53256b8f": {
-      "lastSeen": 1792259429486
+      "lastSeen": 1792259612345
     }
   },
   "problems": {
+    "74": {
+      "attempts": 3,
+      "bestMemory": "43.5 MB (Beats 94%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-17",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-17",
+      "folderName": "0074-Search-a-2D-Matrix",
+      "language": "Java",
+      "number": 74,
+      "slug": "search-a-2d-matrix",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Matrix"
+      ],
+      "title": "Search a 2D Matrix",
+      "at": 1792259612345
+    },
     "3551": {
       "attempts": 1,
       "bestMemory": "115.3 MB (Beats 68%)",
@@ -25,7 +45,7 @@
         "Sorting"
       ],
       "title": "Minimum Swaps to Sort by Digit Sum",
-      "at": 1792259429486
+      "at": 1792259612345
     }
   },
   "achievements": {
@@ -37,7 +57,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 2
+    "pushes": 3
   },
   "identity": {
     "installId": "a3399c48-c07a-4808-b0f5-2de7cf30506e",
