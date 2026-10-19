@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792393713098,
+  "updatedAt": 1792394013327,
   "devices": {
     "7061cee7-754e-421d-af11-d08d53256b8f": {
-      "lastSeen": 1792393712446
+      "lastSeen": 1792394012426
     }
   },
   "problems": {
@@ -25,7 +25,27 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1792393712446
+      "at": 1792394012426
+    },
+    "2089": {
+      "attempts": 1,
+      "bestMemory": "46.2 MB (Beats 44%)",
+      "bestRuntime": "5 ms (Beats 72%)",
+      "date": "2026-10-19",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-19",
+      "folderName": "2089-Find-Target-Indices-After-Sorting-Array",
+      "language": "Java",
+      "number": 2089,
+      "slug": "find-target-indices-after-sorting-array",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Find Target Indices After Sorting Array",
+      "at": 1792394012426
     },
     "3551": {
       "attempts": 1,
@@ -45,7 +65,7 @@
         "Sorting"
       ],
       "title": "Minimum Swaps to Sort by Digit Sum",
-      "at": 1792393712446
+      "at": 1792394012426
     }
   },
   "achievements": {
@@ -54,11 +74,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-10-17"
+    "2026-10-17",
+    "2026-10-19"
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 3
+    "pushes": 4
   },
   "identity": {
     "installId": "a3399c48-c07a-4808-b0f5-2de7cf30506e",
