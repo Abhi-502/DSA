@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792857928154,
+  "updatedAt": 1792858031808,
   "devices": {
     "7061cee7-754e-421d-af11-d08d53256b8f": {
-      "lastSeen": 1792857924815
+      "lastSeen": 1792858030971
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1792857924815
+      "at": 1792858030971
     },
     "2089": {
       "attempts": 1,
@@ -45,7 +45,26 @@
         "Sorting"
       ],
       "title": "Find Target Indices After Sorting Array",
-      "at": 1792857924815
+      "at": 1792858030971
+    },
+    "2409": {
+      "attempts": 1,
+      "bestMemory": "42.3 MB (Beats 95%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-24",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-24",
+      "folderName": "2409-Count-Days-Spent-Together",
+      "language": "Java",
+      "number": 2409,
+      "slug": "count-days-spent-together",
+      "solutionCount": 1,
+      "tags": [
+        "Math",
+        "String"
+      ],
+      "title": "Count Days Spent Together",
+      "at": 1792858030971
     },
     "3551": {
       "attempts": 1,
@@ -65,7 +84,7 @@
         "Sorting"
       ],
       "title": "Minimum Swaps to Sort by Digit Sum",
-      "at": 1792857924815
+      "at": 1792858030971
     }
   },
   "achievements": {
@@ -76,11 +95,12 @@
   "sheets": {},
   "days": [
     "2026-10-17",
-    "2026-10-19"
+    "2026-10-19",
+    "2026-10-24"
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 4
+    "pushes": 5
   },
   "identity": {
     "installId": "a3399c48-c07a-4808-b0f5-2de7cf30506e",
