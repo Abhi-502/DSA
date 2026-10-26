@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793019986538,
+  "updatedAt": 1793020031935,
   "devices": {
     "7061cee7-754e-421d-af11-d08d53256b8f": {
-      "lastSeen": 1793019985853
+      "lastSeen": 1793020030884
     }
   },
   "problems": {
@@ -25,7 +25,26 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1793019985853
+      "at": 1793020030884
+    },
+    "744": {
+      "attempts": 2,
+      "bestMemory": "45.9 MB (Beats 92%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-26",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-26",
+      "folderName": "0744-Find-Smallest-Letter-Greater-Than-Target",
+      "language": "Java",
+      "number": 744,
+      "slug": "find-smallest-letter-greater-than-target",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "title": "Find Smallest Letter Greater Than Target",
+      "at": 1793020030884
     },
     "2089": {
       "attempts": 1,
@@ -45,7 +64,7 @@
         "Sorting"
       ],
       "title": "Find Target Indices After Sorting Array",
-      "at": 1793019985853
+      "at": 1793020030884
     },
     "2409": {
       "attempts": 1,
@@ -64,7 +83,7 @@
         "String"
       ],
       "title": "Count Days Spent Together",
-      "at": 1793019985853
+      "at": 1793020030884
     },
     "3551": {
       "attempts": 1,
@@ -84,7 +103,7 @@
         "Sorting"
       ],
       "title": "Minimum Swaps to Sort by Digit Sum",
-      "at": 1793019985853
+      "at": 1793020030884
     },
     "4090": {
       "attempts": 4,
@@ -100,7 +119,7 @@
       "solutionCount": 1,
       "tags": [],
       "title": "Count Magical Substring Pairs I",
-      "at": 1793019985853
+      "at": 1793020030884
     }
   },
   "achievements": {
@@ -112,11 +131,12 @@
   "days": [
     "2026-10-17",
     "2026-10-19",
-    "2026-10-24"
+    "2026-10-24",
+    "2026-10-26"
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 6
+    "pushes": 7
   },
   "identity": {
     "installId": "a3399c48-c07a-4808-b0f5-2de7cf30506e",
