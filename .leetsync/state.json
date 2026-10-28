@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793191931364,
+  "updatedAt": 1793192231998,
   "devices": {
     "7061cee7-754e-421d-af11-d08d53256b8f": {
-      "lastSeen": 1793191930886
+      "lastSeen": 1793192230996
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1793191930886
+      "at": 1793192230996
     },
     "540": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Binary Search"
       ],
       "title": "Single Element in a Sorted Array",
-      "at": 1793191930886
+      "at": 1793192230996
     },
     "584": {
       "attempts": 1,
@@ -62,7 +62,25 @@
         "Database"
       ],
       "title": "Find Customer Referee",
-      "at": 1793191930886
+      "at": 1793192230996
+    },
+    "595": {
+      "attempts": 1,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "344 ms (Beats 24%)",
+      "date": "2026-10-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-28",
+      "folderName": "0595-Big-Countries",
+      "language": "MySQL",
+      "number": 595,
+      "slug": "big-countries",
+      "solutionCount": 1,
+      "tags": [
+        "Database"
+      ],
+      "title": "Big Countries",
+      "at": 1793192230996
     },
     "744": {
       "attempts": 2,
@@ -81,7 +99,7 @@
         "Binary Search"
       ],
       "title": "Find Smallest Letter Greater Than Target",
-      "at": 1793191930886
+      "at": 1793192230996
     },
     "1068": {
       "attempts": 1,
@@ -99,7 +117,7 @@
         "Database"
       ],
       "title": "Product Sales Analysis I",
-      "at": 1793191930886
+      "at": 1793192230996
     },
     "1378": {
       "attempts": 1,
@@ -117,7 +135,7 @@
         "Database"
       ],
       "title": "Replace Employee ID With The Unique Identifier",
-      "at": 1793191930886
+      "at": 1793192230996
     },
     "1757": {
       "attempts": 1,
@@ -135,7 +153,7 @@
         "Database"
       ],
       "title": "Recyclable and Low Fat Products",
-      "at": 1793191930886
+      "at": 1793192230996
     },
     "2089": {
       "attempts": 1,
@@ -155,7 +173,7 @@
         "Sorting"
       ],
       "title": "Find Target Indices After Sorting Array",
-      "at": 1793191930886
+      "at": 1793192230996
     },
     "2409": {
       "attempts": 1,
@@ -174,7 +192,7 @@
         "String"
       ],
       "title": "Count Days Spent Together",
-      "at": 1793191930886
+      "at": 1793192230996
     },
     "3551": {
       "attempts": 1,
@@ -194,7 +212,7 @@
         "Sorting"
       ],
       "title": "Minimum Swaps to Sort by Digit Sum",
-      "at": 1793191930886
+      "at": 1793192230996
     },
     "4090": {
       "attempts": 4,
@@ -210,10 +228,11 @@
       "solutionCount": 1,
       "tags": [],
       "title": "Count Magical Substring Pairs I",
-      "at": 1793191930886
+      "at": 1793192230996
     }
   },
   "achievements": {
+    "bookworm": 1793191937639,
     "deca": 1793191477605,
     "early_bird": 1792542385161,
     "first_blood": 1792247811981,
@@ -232,7 +251,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 12
+    "pushes": 13
   },
   "identity": {
     "installId": "a3399c48-c07a-4808-b0f5-2de7cf30506e",
