@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793273110256,
+  "updatedAt": 1793273231583,
   "devices": {
     "7061cee7-754e-421d-af11-d08d53256b8f": {
-      "lastSeen": 1793273109611
+      "lastSeen": 1793273230979
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "540": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Binary Search"
       ],
       "title": "Single Element in a Sorted Array",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "584": {
       "attempts": 1,
@@ -62,7 +62,7 @@
         "Database"
       ],
       "title": "Find Customer Referee",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "595": {
       "attempts": 1,
@@ -80,7 +80,7 @@
         "Database"
       ],
       "title": "Big Countries",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "744": {
       "attempts": 2,
@@ -99,7 +99,7 @@
         "Binary Search"
       ],
       "title": "Find Smallest Letter Greater Than Target",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "1068": {
       "attempts": 2,
@@ -117,7 +117,7 @@
         "Database"
       ],
       "title": "Product Sales Analysis I",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "1148": {
       "attempts": 1,
@@ -135,25 +135,25 @@
         "Database"
       ],
       "title": "Article Views I",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "1378": {
-      "attempts": 1,
+      "attempts": 2,
       "bestMemory": "0B (Beats 100%)",
       "bestRuntime": "1363 ms (Beats 45%)",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "difficulty": "Easy",
-      "firstSolvedOn": "2026-10-28",
+      "firstSolvedOn": "2026-10-29",
       "folderName": "1378-Replace-Employee-ID-With-The-Unique-Identifier",
       "language": "MySQL",
       "number": 1378,
       "slug": "replace-employee-id-with-the-unique-identifier",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Database"
       ],
       "title": "Replace Employee ID With The Unique Identifier",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "1581": {
       "attempts": 1,
@@ -171,25 +171,43 @@
         "Database"
       ],
       "title": "Customer Who Visited but Did Not Make Any Transactions",
-      "at": 1793273109611
+      "at": 1793273230979
     },
-    "1757": {
+    "1683": {
       "attempts": 1,
       "bestMemory": "0B (Beats 100%)",
-      "bestRuntime": "507 ms (Beats 96%)",
-      "date": "2026-10-28",
+      "bestRuntime": "675 ms (Beats 42%)",
+      "date": "2026-10-29",
       "difficulty": "Easy",
-      "firstSolvedOn": "2026-10-28",
-      "folderName": "1757-Recyclable-and-Low-Fat-Products",
-      "language": "Oracle SQL",
-      "number": 1757,
-      "slug": "recyclable-and-low-fat-products",
+      "firstSolvedOn": "2026-10-29",
+      "folderName": "1683-Invalid-Tweets",
+      "language": "MySQL",
+      "number": 1683,
+      "slug": "invalid-tweets",
       "solutionCount": 1,
       "tags": [
         "Database"
       ],
+      "title": "Invalid Tweets",
+      "at": 1793273230979
+    },
+    "1757": {
+      "attempts": 2,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "507 ms (Beats 96%)",
+      "date": "2026-10-29",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-29",
+      "folderName": "1757-Recyclable-and-Low-Fat-Products",
+      "language": "Oracle SQL",
+      "number": 1757,
+      "slug": "recyclable-and-low-fat-products",
+      "solutionCount": 2,
+      "tags": [
+        "Database"
+      ],
       "title": "Recyclable and Low Fat Products",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "2089": {
       "attempts": 1,
@@ -209,7 +227,7 @@
         "Sorting"
       ],
       "title": "Find Target Indices After Sorting Array",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "2409": {
       "attempts": 1,
@@ -228,7 +246,7 @@
         "String"
       ],
       "title": "Count Days Spent Together",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "3551": {
       "attempts": 1,
@@ -248,7 +266,7 @@
         "Sorting"
       ],
       "title": "Minimum Swaps to Sort by Digit Sum",
-      "at": 1793273109611
+      "at": 1793273230979
     },
     "4090": {
       "attempts": 4,
@@ -264,7 +282,7 @@
       "solutionCount": 1,
       "tags": [],
       "title": "Count Magical Substring Pairs I",
-      "at": 1793273109611
+      "at": 1793273230979
     }
   },
   "achievements": {
@@ -289,7 +307,7 @@
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 16
+    "pushes": 19
   },
   "identity": {
     "installId": "a3399c48-c07a-4808-b0f5-2de7cf30506e",
