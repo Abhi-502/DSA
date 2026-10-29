@@ -36,7 +36,7 @@
 | 744 | [Find Smallest Letter Greater Than Target](problems/0744-Find-Smallest-Letter-Greater-Than-Target) | 🟩 Easy | `Java` | 2026-10-26 |
 | 1068 | [Product Sales Analysis I](problems/1068-Product-Sales-Analysis-I) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 1148 | [Article Views I](problems/1148-Article-Views-I) | 🟩 Easy | `MySQL` | 2026-10-28 |
-| 1378 | [Replace Employee ID With The Unique Identifier](problems/1378-Replace-Employee-ID-With-The-Unique-Identifier) | 🟩 Easy | `MySQL` | 2026-10-28 |
+| 1378 | [Replace Employee ID With The Unique Identifier](problems/1378-Replace-Employee-ID-With-The-Unique-Identifier) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](problems/1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 1683 | [Invalid Tweets](problems/1683-Invalid-Tweets) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 1757 | [Recyclable and Low Fat Products](problems/1757-Recyclable-and-Low-Fat-Products) | 🟩 Easy | `Oracle SQL` | 2026-10-29 |
