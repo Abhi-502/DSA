@@ -38,7 +38,7 @@
 | 1148 | [Article Views I](problems/1148-Article-Views-I) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 1378 | [Replace Employee ID With The Unique Identifier](problems/1378-Replace-Employee-ID-With-The-Unique-Identifier) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](problems/1581-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions) | 🟩 Easy | `MySQL` | 2026-10-29 |
-| 1757 | [Recyclable and Low Fat Products](problems/1757-Recyclable-and-Low-Fat-Products) | 🟩 Easy | `Oracle SQL` | 2026-10-28 |
+| 1757 | [Recyclable and Low Fat Products](problems/1757-Recyclable-and-Low-Fat-Products) | 🟩 Easy | `Oracle SQL` | 2026-10-29 |
 | 2089 | [Find Target Indices After Sorting Array](problems/2089-Find-Target-Indices-After-Sorting-Array) | 🟩 Easy | `Java` | 2026-10-19 |
 | 2409 | [Count Days Spent Together](problems/2409-Count-Days-Spent-Together) | 🟩 Easy | `Java` | 2026-10-24 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](problems/3551-Minimum-Swaps-to-Sort-by-Digit-Sum) | 🟧 Medium | `Java` | 2026-10-17 |
