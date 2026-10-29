@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-20%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-4%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-21%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-5%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -34,6 +34,7 @@
 | 121 | [Best Time to Buy and Sell Stock](problems/0121-Best-Time-to-Buy-and-Sell-Stock) | 🟩 Easy | `Java` | 2026-10-29 |
 | 197 | [Rising Temperature](problems/0197-Rising-Temperature) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-10-29 |
+| 238 | [Product of Array Except Self](problems/0238-Product-of-Array-Except-Self) | 🟧 Medium | `Java` | 2026-10-29 |
 | 540 | [Single Element in a Sorted Array](problems/0540-Single-Element-in-a-Sorted-Array) | 🟧 Medium | `Java` | 2026-10-27 |
 | 584 | [Find Customer Referee](problems/0584-Find-Customer-Referee) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 595 | [Big Countries](problems/0595-Big-Countries) | 🟩 Easy | `MySQL` | 2026-10-28 |
