@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-25%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-26%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-9%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -30,6 +30,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `Java` | 2026-10-29 |
+| 3 | [Longest Substring Without Repeating Characters](problems/0003-Longest-Substring-Without-Repeating-Characters) | 🟧 Medium | `Java` | 2026-10-30 |
 | 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟧 Medium | `Java` | 2026-10-29 |
 | 15 | [3Sum](problems/0015-3Sum) | 🟧 Medium | `Java` | 2026-10-30 |
 | 53 | [Maximum Subarray](problems/0053-Maximum-Subarray) | 🟧 Medium | `Java` | 2026-10-29 |
