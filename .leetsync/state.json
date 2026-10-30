@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793346698843,
+  "updatedAt": 1793346960888,
   "devices": {
     "7061cee7-754e-421d-af11-d08d53256b8f": {
-      "lastSeen": 1793346697175
+      "lastSeen": 1793346959079
     }
   },
   "problems": {
@@ -24,7 +24,27 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1793346697175
+      "at": 1793346959079
+    },
+    "3": {
+      "attempts": 3,
+      "bestMemory": "47.4 MB (Beats 87%)",
+      "bestRuntime": "68 ms (Beats 30%)",
+      "date": "2026-10-30",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-30",
+      "folderName": "0003-Longest-Substring-Without-Repeating-Characters",
+      "language": "Java",
+      "number": 3,
+      "slug": "longest-substring-without-repeating-characters",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "title": "Longest Substring Without Repeating Characters",
+      "at": 1793346959079
     },
     "11": {
       "attempts": 1,
@@ -44,7 +64,7 @@
         "Greedy"
       ],
       "title": "Container With Most Water",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "15": {
       "attempts": 2,
@@ -64,7 +84,7 @@
         "Sorting"
       ],
       "title": "3Sum",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "53": {
       "attempts": 1,
@@ -84,7 +104,7 @@
         "Dynamic Programming"
       ],
       "title": "Maximum Subarray",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "74": {
       "attempts": 3,
@@ -104,7 +124,7 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "121": {
       "attempts": 2,
@@ -123,7 +143,7 @@
         "Dynamic Programming"
       ],
       "title": "Best Time to Buy and Sell Stock",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "125": {
       "attempts": 1,
@@ -142,7 +162,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "197": {
       "attempts": 1,
@@ -160,7 +180,7 @@
         "Database"
       ],
       "title": "Rising Temperature",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "217": {
       "attempts": 2,
@@ -180,7 +200,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "238": {
       "attempts": 1,
@@ -199,7 +219,7 @@
         "Prefix Sum"
       ],
       "title": "Product of Array Except Self",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "540": {
       "attempts": 1,
@@ -218,7 +238,7 @@
         "Binary Search"
       ],
       "title": "Single Element in a Sorted Array",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "584": {
       "attempts": 1,
@@ -236,7 +256,7 @@
         "Database"
       ],
       "title": "Find Customer Referee",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "595": {
       "attempts": 1,
@@ -254,7 +274,7 @@
         "Database"
       ],
       "title": "Big Countries",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "620": {
       "attempts": 1,
@@ -272,7 +292,7 @@
         "Database"
       ],
       "title": "Not Boring Movies",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "744": {
       "attempts": 2,
@@ -291,7 +311,7 @@
         "Binary Search"
       ],
       "title": "Find Smallest Letter Greater Than Target",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "1068": {
       "attempts": 2,
@@ -309,7 +329,7 @@
         "Database"
       ],
       "title": "Product Sales Analysis I",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "1148": {
       "attempts": 1,
@@ -327,7 +347,7 @@
         "Database"
       ],
       "title": "Article Views I",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "1378": {
       "attempts": 2,
@@ -345,7 +365,7 @@
         "Database"
       ],
       "title": "Replace Employee ID With The Unique Identifier",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "1581": {
       "attempts": 1,
@@ -363,7 +383,7 @@
         "Database"
       ],
       "title": "Customer Who Visited but Did Not Make Any Transactions",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "1683": {
       "attempts": 1,
@@ -381,7 +401,7 @@
         "Database"
       ],
       "title": "Invalid Tweets",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "1757": {
       "attempts": 2,
@@ -399,7 +419,7 @@
         "Database"
       ],
       "title": "Recyclable and Low Fat Products",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "2089": {
       "attempts": 1,
@@ -419,7 +439,7 @@
         "Sorting"
       ],
       "title": "Find Target Indices After Sorting Array",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "2409": {
       "attempts": 1,
@@ -438,7 +458,7 @@
         "String"
       ],
       "title": "Count Days Spent Together",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "3551": {
       "attempts": 1,
@@ -458,7 +478,7 @@
         "Sorting"
       ],
       "title": "Minimum Swaps to Sort by Digit Sum",
-      "at": 1793346697175
+      "at": 1793346959079
     },
     "4090": {
       "attempts": 4,
@@ -474,7 +494,7 @@
       "solutionCount": 1,
       "tags": [],
       "title": "Count Magical Substring Pairs I",
-      "at": 1793346697175
+      "at": 1793346959079
     }
   },
   "achievements": {
@@ -501,7 +521,7 @@
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 30
+    "pushes": 31
   },
   "identity": {
     "installId": "a3399c48-c07a-4808-b0f5-2de7cf30506e",
