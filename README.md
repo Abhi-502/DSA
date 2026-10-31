@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-28%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-10%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-29%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-10%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -46,6 +46,7 @@
 | 584 | [Find Customer Referee](problems/0584-Find-Customer-Referee) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 595 | [Big Countries](problems/0595-Big-Countries) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 620 | [Not Boring Movies](problems/0620-Not-Boring-Movies) | 🟩 Easy | `MySQL` | 2026-10-29 |
+| 733 | [Flood Fill](problems/0733-Flood-Fill) | 🟩 Easy | `Java` | 2026-10-31 |
 | 744 | [Find Smallest Letter Greater Than Target](problems/0744-Find-Smallest-Letter-Greater-Than-Target) | 🟩 Easy | `Java` | 2026-10-26 |
 | 1068 | [Product Sales Analysis I](problems/1068-Product-Sales-Analysis-I) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 1148 | [Article Views I](problems/1148-Article-Views-I) | 🟩 Easy | `MySQL` | 2026-10-28 |
