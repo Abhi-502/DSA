@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793446291895,
+  "updatedAt": 1793446540307,
   "devices": {
     "7061cee7-754e-421d-af11-d08d53256b8f": {
-      "lastSeen": 1793446291224
+      "lastSeen": 1793446539485
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "3": {
       "attempts": 3,
@@ -44,7 +44,7 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "11": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Greedy"
       ],
       "title": "Container With Most Water",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "15": {
       "attempts": 2,
@@ -84,7 +84,7 @@
         "Sorting"
       ],
       "title": "3Sum",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "53": {
       "attempts": 1,
@@ -104,7 +104,27 @@
         "Dynamic Programming"
       ],
       "title": "Maximum Subarray",
-      "at": 1793446291224
+      "at": 1793446539485
+    },
+    "62": {
+      "attempts": 1,
+      "bestMemory": "41.9 MB (Beats 77%)",
+      "bestRuntime": "1 ms (Beats 15%)",
+      "date": "2026-10-31",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-31",
+      "folderName": "0062-Unique-Paths",
+      "language": "Java",
+      "number": 62,
+      "slug": "unique-paths",
+      "solutionCount": 1,
+      "tags": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ],
+      "title": "Unique Paths",
+      "at": 1793446539485
     },
     "74": {
       "attempts": 3,
@@ -124,7 +144,7 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "76": {
       "attempts": 1,
@@ -144,7 +164,7 @@
         "Sliding Window"
       ],
       "title": "Minimum Window Substring",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "121": {
       "attempts": 2,
@@ -163,7 +183,7 @@
         "Dynamic Programming"
       ],
       "title": "Best Time to Buy and Sell Stock",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "125": {
       "attempts": 1,
@@ -182,7 +202,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "197": {
       "attempts": 1,
@@ -200,7 +220,7 @@
         "Database"
       ],
       "title": "Rising Temperature",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "200": {
       "attempts": 1,
@@ -222,7 +242,7 @@
         "Matrix"
       ],
       "title": "Number of Islands",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "217": {
       "attempts": 2,
@@ -242,7 +262,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "238": {
       "attempts": 1,
@@ -261,7 +281,7 @@
         "Prefix Sum"
       ],
       "title": "Product of Array Except Self",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "540": {
       "attempts": 1,
@@ -280,7 +300,7 @@
         "Binary Search"
       ],
       "title": "Single Element in a Sorted Array",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "584": {
       "attempts": 1,
@@ -298,7 +318,7 @@
         "Database"
       ],
       "title": "Find Customer Referee",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "595": {
       "attempts": 1,
@@ -316,7 +336,7 @@
         "Database"
       ],
       "title": "Big Countries",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "620": {
       "attempts": 1,
@@ -334,7 +354,7 @@
         "Database"
       ],
       "title": "Not Boring Movies",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "733": {
       "attempts": 1,
@@ -355,7 +375,7 @@
         "Matrix"
       ],
       "title": "Flood Fill",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "744": {
       "attempts": 2,
@@ -374,7 +394,7 @@
         "Binary Search"
       ],
       "title": "Find Smallest Letter Greater Than Target",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "994": {
       "attempts": 1,
@@ -394,7 +414,7 @@
         "Matrix"
       ],
       "title": "Rotting Oranges",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "1068": {
       "attempts": 2,
@@ -412,7 +432,7 @@
         "Database"
       ],
       "title": "Product Sales Analysis I",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "1148": {
       "attempts": 1,
@@ -430,7 +450,7 @@
         "Database"
       ],
       "title": "Article Views I",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "1378": {
       "attempts": 2,
@@ -448,7 +468,7 @@
         "Database"
       ],
       "title": "Replace Employee ID With The Unique Identifier",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "1581": {
       "attempts": 1,
@@ -466,7 +486,7 @@
         "Database"
       ],
       "title": "Customer Who Visited but Did Not Make Any Transactions",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "1683": {
       "attempts": 1,
@@ -484,7 +504,7 @@
         "Database"
       ],
       "title": "Invalid Tweets",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "1757": {
       "attempts": 2,
@@ -502,7 +522,7 @@
         "Database"
       ],
       "title": "Recyclable and Low Fat Products",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "2089": {
       "attempts": 1,
@@ -522,7 +542,7 @@
         "Sorting"
       ],
       "title": "Find Target Indices After Sorting Array",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "2409": {
       "attempts": 1,
@@ -541,7 +561,7 @@
         "String"
       ],
       "title": "Count Days Spent Together",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "3551": {
       "attempts": 1,
@@ -561,7 +581,7 @@
         "Sorting"
       ],
       "title": "Minimum Swaps to Sort by Digit Sum",
-      "at": 1793446291224
+      "at": 1793446539485
     },
     "4090": {
       "attempts": 4,
@@ -577,7 +597,7 @@
       "solutionCount": 1,
       "tags": [],
       "title": "Count Magical Substring Pairs I",
-      "at": 1793446291224
+      "at": 1793446539485
     }
   },
   "achievements": {
@@ -606,7 +626,7 @@
   ],
   "bests": {
     "longestStreak": 6,
-    "pushes": 35
+    "pushes": 36
   },
   "identity": {
     "installId": "a3399c48-c07a-4808-b0f5-2de7cf30506e",
