@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-34%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-15%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-35%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-16%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -62,6 +62,7 @@
 | 2089 | [Find Target Indices After Sorting Array](problems/2089-Find-Target-Indices-After-Sorting-Array) | 🟩 Easy | `Java` | 2026-10-19 |
 | 2409 | [Count Days Spent Together](problems/2409-Count-Days-Spent-Together) | 🟩 Easy | `Java` | 2026-10-24 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](problems/3551-Minimum-Swaps-to-Sort-by-Digit-Sum) | 🟧 Medium | `Java` | 2026-10-17 |
+| 3665 | [Twisted Mirror Path Count](problems/3665-Twisted-Mirror-Path-Count) | 🟧 Medium | `Java` | 2026-10-31 |
 | 4090 | [Count Magical Substring Pairs I](problems/4090-Count-Magical-Substring-Pairs-I) | 🟧 Medium | `Java` | 2026-10-24 |
 
 ---
