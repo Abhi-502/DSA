@@ -2,7 +2,7 @@
 
 # 1385. Find the Distance Value Between Two Arrays
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--11--05-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-3-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--11--05-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
 
@@ -15,18 +15,20 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Two Pointers, Binary Search, Sorting — best runtime 17 ms (Beats 5%), best memory 45.5 MB (Beats 98%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Two Pointers, Binary Search, Sorting — best runtime 4 ms (Beats 75%), best memory 45.6 MB (Beats 93%)" src="panel-dark.svg">
 </picture>
 
 </div>
+
+> **New personal best** — Runtime improved on this submission.
 
 ### HOW IT WENT
 
 | | |
 |:--|:--|
-| **Attempts** | 2 before accepted |
-| **Time to solve** | 2 h 20 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted |
+| **Attempts** | 3 before accepted |
+| **Time to solve** | 2 h 22 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -36,12 +38,13 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (2)
+### SOLUTIONS (3)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
 | 1 | [sol1.java](./sol1.java) | `Java` | 2026-11-05 |
-| 2 | [sol2.java](./sol2.java) | `Java` | 2026-11-05 ← **latest** |
+| 2 | [sol2.java](./sol2.java) | `Java` | 2026-11-05 |
+| 3 | [sol3.java](./sol3.java) | `Java` | 2026-11-05 ← **latest** |
 
 ---
 
