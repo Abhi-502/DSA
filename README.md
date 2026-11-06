@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-11-06 |
 | 1385 | [Find the Distance Value Between Two Arrays](problems/1385-Find-the-Distance-Value-Between-Two-Arrays) | 🟩 Easy | `Java` | 2026-11-05 |
 | 3736 | [Minimum Moves to Equal Array Elements III](problems/3736-Minimum-Moves-to-Equal-Array-Elements-III) | 🟩 Easy | `Java` | 2026-11-03 |
 | 462 | [Minimum Moves to Equal Array Elements II](problems/0462-Minimum-Moves-to-Equal-Array-Elements-II) | 🟧 Medium | `Java` | 2026-11-02 |
@@ -40,7 +41,6 @@
 | 189 | [Rotate Array](problems/0189-Rotate-Array) | 🟧 Medium | `Java` | 2026-11-01 |
 | 3665 | [Twisted Mirror Path Count](problems/3665-Twisted-Mirror-Path-Count) | 🟧 Medium | `Java` | 2026-10-31 |
 | 994 | [Rotting Oranges](problems/0994-Rotting-Oranges) | 🟧 Medium | `Java` | 2026-10-31 |
-| 733 | [Flood Fill](problems/0733-Flood-Fill) | 🟩 Easy | `Java` | 2026-10-31 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 21 solved</summary>
@@ -51,7 +51,7 @@
 | 121 | [Best Time to Buy and Sell Stock](problems/0121-Best-Time-to-Buy-and-Sell-Stock) | 🟩 Easy | `Java` | 2026-10-29 |
 | 125 | [Valid Palindrome](problems/0125-Valid-Palindrome) | 🟩 Easy | `Java` | 2026-10-29 |
 | 197 | [Rising Temperature](problems/0197-Rising-Temperature) | 🟩 Easy | `MySQL` | 2026-10-29 |
-| 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-10-29 |
+| 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-11-06 |
 | 349 | [Intersection of Two Arrays](problems/0349-Intersection-of-Two-Arrays) | 🟩 Easy | `Java` | 2026-11-01 |
 | 584 | [Find Customer Referee](problems/0584-Find-Customer-Referee) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 595 | [Big Countries](problems/0595-Big-Countries) | 🟩 Easy | `MySQL` | 2026-10-28 |
