@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-44%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-21%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-22%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-45%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-22%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 3364 | [Minimum Positive Sum Subarray ](problems/3364-Minimum-Positive-Sum-Subarray) | 🟩 Easy | `Java` | 2026-11-14 |
 | 31 | [Next Permutation](problems/0031-Next-Permutation) | 🟧 Medium | `Java` | 2026-11-14 |
 | 349 | [Intersection of Two Arrays](problems/0349-Intersection-of-Two-Arrays) | 🟩 Easy | `Java` | 2026-11-06 |
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-11-06 |
@@ -40,10 +41,9 @@
 | 462 | [Minimum Moves to Equal Array Elements II](problems/0462-Minimum-Moves-to-Equal-Array-Elements-II) | 🟧 Medium | `Java` | 2026-11-02 |
 | 525 | [Contiguous Array](problems/0525-Contiguous-Array) | 🟧 Medium | `Java` | 2026-11-01 |
 | 453 | [Minimum Moves to Equal Array Elements](problems/0453-Minimum-Moves-to-Equal-Array-Elements) | 🟧 Medium | `Java` | 2026-11-01 |
-| 189 | [Rotate Array](problems/0189-Rotate-Array) | 🟧 Medium | `Java` | 2026-11-01 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 21 solved</summary>
+<summary><strong>🟩 Easy</strong> — 22 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -67,6 +67,7 @@
 | 1757 | [Recyclable and Low Fat Products](problems/1757-Recyclable-and-Low-Fat-Products) | 🟩 Easy | `Oracle SQL` | 2026-10-29 |
 | 2089 | [Find Target Indices After Sorting Array](problems/2089-Find-Target-Indices-After-Sorting-Array) | 🟩 Easy | `Java` | 2026-10-19 |
 | 2409 | [Count Days Spent Together](problems/2409-Count-Days-Spent-Together) | 🟩 Easy | `Java` | 2026-10-24 |
+| 3364 | [Minimum Positive Sum Subarray ](problems/3364-Minimum-Positive-Sum-Subarray) | 🟩 Easy | `Java` | 2026-11-14 |
 | 3736 | [Minimum Moves to Equal Array Elements III](problems/3736-Minimum-Moves-to-Equal-Array-Elements-III) | 🟩 Easy | `Java` | 2026-11-03 |
 
 </details>
