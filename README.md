@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-45%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-22%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-46%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-23%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 1524 | [Number of Sub-arrays With Odd Sum](problems/1524-Number-of-Sub-arrays-With-Odd-Sum) | 🟧 Medium | `Java` | 2026-11-15 |
 | 3364 | [Minimum Positive Sum Subarray ](problems/3364-Minimum-Positive-Sum-Subarray) | 🟩 Easy | `Java` | 2026-11-14 |
 | 31 | [Next Permutation](problems/0031-Next-Permutation) | 🟧 Medium | `Java` | 2026-11-14 |
 | 349 | [Intersection of Two Arrays](problems/0349-Intersection-of-Two-Arrays) | 🟩 Easy | `Java` | 2026-11-06 |
@@ -40,7 +41,6 @@
 | 3736 | [Minimum Moves to Equal Array Elements III](problems/3736-Minimum-Moves-to-Equal-Array-Elements-III) | 🟩 Easy | `Java` | 2026-11-03 |
 | 462 | [Minimum Moves to Equal Array Elements II](problems/0462-Minimum-Moves-to-Equal-Array-Elements-II) | 🟧 Medium | `Java` | 2026-11-02 |
 | 525 | [Contiguous Array](problems/0525-Contiguous-Array) | 🟧 Medium | `Java` | 2026-11-01 |
-| 453 | [Minimum Moves to Equal Array Elements](problems/0453-Minimum-Moves-to-Equal-Array-Elements) | 🟧 Medium | `Java` | 2026-11-01 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 22 solved</summary>
@@ -73,7 +73,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 22 solved</summary>
+<summary><strong>🟧 Medium</strong> — 23 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -96,6 +96,7 @@
 | 525 | [Contiguous Array](problems/0525-Contiguous-Array) | 🟧 Medium | `Java` | 2026-11-01 |
 | 540 | [Single Element in a Sorted Array](problems/0540-Single-Element-in-a-Sorted-Array) | 🟧 Medium | `Java` | 2026-10-27 |
 | 994 | [Rotting Oranges](problems/0994-Rotting-Oranges) | 🟧 Medium | `Java` | 2026-10-31 |
+| 1524 | [Number of Sub-arrays With Odd Sum](problems/1524-Number-of-Sub-arrays-With-Odd-Sum) | 🟧 Medium | `Java` | 2026-11-15 |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](problems/3551-Minimum-Swaps-to-Sort-by-Digit-Sum) | 🟧 Medium | `Java` | 2026-10-17 |
 | 3665 | [Twisted Mirror Path Count](problems/3665-Twisted-Mirror-Path-Count) | 🟧 Medium | `Java` | 2026-10-31 |
 | 4090 | [Count Magical Substring Pairs I](problems/4090-Count-Magical-Substring-Pairs-I) | 🟧 Medium | `Java` | 2026-10-24 |
